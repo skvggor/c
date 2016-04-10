@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+main() {
 	int numero_empregado;
 	float horas_trabalhadas,
 		valor_hora_extras,
@@ -38,5 +38,4 @@ int main(void) {
 	printf("Salario liquido mensal: R$ %g\n", salario_liquido);
 
 	system("pause");
-	return 0;
 }

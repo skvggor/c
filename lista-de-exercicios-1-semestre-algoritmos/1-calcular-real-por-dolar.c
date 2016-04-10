@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+main() {
 	float cotacao,
 		valor_real,
 		valor_dolar;
@@ -14,5 +14,4 @@ int main(void) {
 	printf("U$ %.2f convertidos para real sao equivalentes a R$ %.2f.\n", valor_dolar, valor_real);
 
 	system("pause");
-	return 0;
 }

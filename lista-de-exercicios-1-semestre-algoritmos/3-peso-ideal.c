@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+main() {
 	float altura,
 		peso_ideal;
 	char flag_sexo;
@@ -38,5 +38,4 @@ int main(void) {
 	}
 
 	system("pause");
-	return 0;
 }

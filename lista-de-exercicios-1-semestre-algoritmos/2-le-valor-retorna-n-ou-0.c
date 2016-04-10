@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+main() {
 	int limite = 100;
 	float valor,
 		resultado;
@@ -13,5 +13,4 @@ int main(void) {
 	printf("O resultado e %g. \n", resultado);
 
 	system("pause");
-	return 0;
 }
