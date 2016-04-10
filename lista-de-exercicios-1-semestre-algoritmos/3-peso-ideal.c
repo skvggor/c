@@ -1,10 +1,13 @@
 #include <stdio.h>
 
 main() {
-	float altura,
+	float
+		altura,
 		peso_ideal;
-	char flag_sexo;
-	char * nome_sexo;
+	char
+		flag_sexo;
+	char
+		* nome_sexo;
 
 	printf("Qual a sua altura? ");
 	scanf("%f", & altura);

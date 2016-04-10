@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 main() {
-	float cotacao,
+	float
+		cotacao,
 		valor_real,
 		valor_dolar;
 

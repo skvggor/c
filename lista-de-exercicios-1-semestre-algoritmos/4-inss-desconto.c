@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(void) {
-	float salario_bruto,
+	float
+		salario_bruto,
 		salario_liquido,
 		desconto = 0.07;
 

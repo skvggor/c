@@ -1,8 +1,10 @@
 #include <stdio.h>
 
 main() {
-	int numero_empregado;
-	float horas_trabalhadas,
+	int
+		numero_empregado;
+	float
+		horas_trabalhadas,
 		valor_hora_extras,
 		valor_hora,
 		horas_extras,

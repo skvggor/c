@@ -1,8 +1,10 @@
 #include <stdio.h>
 
 main() {
-	int limite = 100;
-	float valor,
+	int
+		limite = 100;
+	float
+		valor,
 		resultado;
 
 	printf("Insira um valor: ");
