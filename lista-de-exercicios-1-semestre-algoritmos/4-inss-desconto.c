@@ -3,7 +3,7 @@
 int main(void) {
 	float
 		salario_bruto,
-		salario_liquido = 1200,
+		salario_limite = 1200,
 		salario_liquido,
 		desconto = 0.07;
 
