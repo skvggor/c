@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+main() {
 	float
 		salario_bruto,
 		salario_limite = 1200,
@@ -19,5 +19,4 @@ int main(void) {
 	printf("O seu salario liquido e R$ %.2f\n", salario_liquido);
 
 	system("pause");
-	return 0;
 }
